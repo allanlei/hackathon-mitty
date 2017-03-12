@@ -1,0 +1,32 @@
+# {
+#   "type":"message",
+#   "subtype":"file_share",
+#   "text":"<@U1XSFE1TN|allanlei> uploaded a file: <https://wards-co.slack.com/files/allanlei/F4HL89W8P/1489211983383152288292.jpg|Slack for Android Upload>",
+#   "file":{
+#       "id":"F4HL89W8P",
+#       "created":1489211990,"timestamp":1489211990,"name":"1489211983383152288292.jpg",
+#       "title":"Slack for Android Upload",
+#       "mimetype":"image/jpeg","filetype":"jpg","pretty_type":"JPEG","user":"U1XSFE1TN",
+#       "editable":false,"size":590096,"mode":"hosted","is_external":false,"external_type":"",
+#       "is_public":false,"public_url_shared":false,"display_as_bot":false,"username":"",
+#       "url_private":"https://files.slack.com/files-pri/T1XSJ9BCY-F4HL89W8P/1489211983383152288292.jpg",
+#       "url_private_download":"https://files.slack.com/files-pri/T1XSJ9BCY-F4HL89W8P/download/1489211983383152288292.jpg",
+#       "thumb_64":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_64.jpg",
+#       "thumb_80":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_80.jpg",
+#       "thumb_360":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_360.jpg",
+#       "thumb_360_w":360,"thumb_360_h":240,
+#       "thumb_480":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_480.jpg","thumb_480_w":480,
+#       "thumb_480_h":320,"thumb_160":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_160.jpg",
+#       "thumb_720":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_720.jpg","thumb_720_w":720
+#       ,"thumb_720_h":480,"thumb_960":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_960.jpg",
+#       "thumb_960_w":960,"thumb_960_h":640,
+#       "thumb_1024":"https://files.slack.com/files-tmb/T1XSJ9BCY-F4HL89W8P-34cbc35727/1489211983383152288292_1024.jpg","thumb_1024_w":1024,
+#       "thumb_1024_h":682,"image_exif_rotation":1,"original_w":2000,"original_h":1333,
+#       "permalink":"https://wards-co.slack.com/files/allanlei/F4HL89W8P/1489211983383152288292.jpg",
+#       "permalink_public":"https://slack-files.com/T1XSJ9BCY-F4HL89W8P-9c911e18a1",
+#       "channels":[],"groups":[],"ims":[],"comments_count":0
+#     },
+#       "user":"U1XSFE1TN","upload":true,"display_as_bot":false,
+#       "username":"<@U1XSFE1TN|allanlei>","bot_id":null,"team":"T1XSJ9BCY",
+#       "source_team":"T1XSJ9BCY","user_team":"T1XSJ9BCY",
+#       "user_profile":{"avatar_hash":"g1d0de4a5699","image_72":"https://secure.gravatar.com/avatar/1d0de4a5699385cca9325ad8d02b722e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0013-72.png","first_name":"Allan","real_name":"Allan Lei","name":"allanlei"},"channel":"D4H28MCMB","ts":"1489211992.000012"}
